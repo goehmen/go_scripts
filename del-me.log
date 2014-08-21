@@ -1,0 +1,169 @@
+Setting api endpoint to api.a1.cf-app.com...
+OK
+
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-30   
+API endpoint: https://api.a1.cf-app.com
+Authenticating...
+OK
+
+Targeted org go-76995182
+
+Targeted space go-space1
+dev-space-0
+apps: 12
+services: 12
+routes: 11
+ 
+dev-space-1
+apps: 8
+services: 10
+routes: 5
+                   
+dev-space-2
+apps: 7
+services: 6
+routes: 6
+ 
+dev-space-3
+apps: 10
+services: 12
+routes: 9
+                   
+dev-space-4
+apps: 9
+services: 9
+routes: 8
+                   
+dev-space-5
+apps: 5
+services: 4
+routes: 4
+ 
+dev-space-6
+apps: 8
+services: 6
+routes: 7
+ 
+dev-space-7
+apps: 8
+services: 7
+routes: 7
+                   
+dev-space-8
+apps: 9
+services: 9
+routes: 8
+ 
+dev-space-9
+apps: 8
+services: 8
+routes: 7
+                   
+dev-space-10
+apps: 4
+services: 5
+routes: 4
+ 
+dev-space-11
+apps: 4
+services: 4
+routes: 4
+                   
+dev-space-12
+apps: 5
+services: 4
+routes: 4
+                   
+dev-space-13
+apps: 5
+services: 5
+routes: 4
+ 
+dev-space-14
+apps: 7
+services: 7
+routes: 6
+ 
+dev-space-15
+apps: 11
+services: 11
+routes: 10
+ 
+dev-space-16
+apps: 14
+services: 14
+routes: 13
+ 
+dev-space-17
+apps: 14
+services: 13
+routes: 12
+ 
+dev-space-18
+apps: 9
+services: 9
+routes: 8
+                   
+dev-space-19
+apps: 5
+services: 5
+routes: 4
+ 
+dev-space-20
+apps: 7
+services: 7
+routes: 6
+ 
+dev-space-21
+apps: 14
+services: 14
+routes: 13
+ 
+dev-space-22
+apps: 12
+services: 12
+routes: 11
+ 
+dev-space-23
+apps: 6
+services: 7
+routes: 5
+                   
+dev-space-24
+apps: 9
+services: 9
+routes: 8
+                   
+dev-space-25
+apps: 9
+services: 9
+routes: 8
+                   
+dev-space-26
+apps: 12
+services: 4
+routes: 11
+ 
+dev-space-27
+apps: 7
+services: 4
+routes: 6
+ 
+dev-space-28
+apps: 10
+services: 5
+routes: 9
+ 
+dev-space-29
+apps: 7
+services: 4
+routes: 6
+ 
+dev-space-30
+apps: 16
+services: 10
+routes: 15 
