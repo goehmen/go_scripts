@@ -5,165 +5,552 @@ OK
 API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
 User:           admin   
 Org:            go-76995182   
-Space:          dev-space-30   
+Space:          dev-space-40   
 API endpoint: https://api.a1.cf-app.com
 Authenticating...
 OK
 
 Targeted org go-76995182
 
-Targeted space go-space1
+FAILED
+Error finding space go-space1
+Space go-space1 not found
+
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          No space targeted, use 'cf target -s SPACE'   
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-0   
 dev-space-0
-apps: 12
-services: 12
-routes: 11
+apps: 
+       7
+services: 
+       7
+routes: 
+       6
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-1   
 dev-space-1
-apps: 8
-services: 10
-routes: 5
+apps: 
+       7
+services: 
+       7
+routes: 
+       4
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-2   
 dev-space-2
-apps: 7
-services: 6
-routes: 6
+apps: 
+      14
+services: 
+      14
+routes: 
+      13
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-3   
 dev-space-3
-apps: 10
-services: 12
-routes: 9
+apps: 
+      11
+services: 
+      11
+routes: 
+      10
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-4   
 dev-space-4
-apps: 9
-services: 9
-routes: 8
+apps: 
+      12
+services: 
+      12
+routes: 
+      11
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-5   
 dev-space-5
-apps: 5
-services: 4
-routes: 4
+apps: 
+       9
+services: 
+       9
+routes: 
+       8
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-6   
 dev-space-6
-apps: 8
-services: 6
-routes: 7
+apps: 
+      13
+services: 
+      13
+routes: 
+      12
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-7   
 dev-space-7
-apps: 8
-services: 7
-routes: 7
+apps: 
+      12
+services: 
+      12
+routes: 
+      11
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-8   
 dev-space-8
-apps: 9
-services: 9
-routes: 8
+apps: 
+       7
+services: 
+       7
+routes: 
+       6
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-9   
 dev-space-9
-apps: 8
-services: 8
-routes: 7
+apps: 
+      10
+services: 
+      10
+routes: 
+       9
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-10   
 dev-space-10
-apps: 4
-services: 5
-routes: 4
+apps: 
+       8
+services: 
+       9
+routes: 
+       7
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-11   
 dev-space-11
-apps: 4
-services: 4
-routes: 4
+apps: 
+       5
+services: 
+       5
+routes: 
+       4
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-12   
 dev-space-12
-apps: 5
-services: 4
-routes: 4
+apps: 
+       7
+services: 
+       7
+routes: 
+       6
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-13   
 dev-space-13
-apps: 5
-services: 5
-routes: 4
+apps: 
+      14
+services: 
+      14
+routes: 
+      13
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-14   
 dev-space-14
-apps: 7
-services: 7
-routes: 6
+apps: 
+       8
+services: 
+       8
+routes: 
+       7
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-15   
 dev-space-15
-apps: 11
-services: 11
-routes: 10
+apps: 
+       8
+services: 
+      10
+routes: 
+       7
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-16   
 dev-space-16
-apps: 14
-services: 14
-routes: 13
+apps: 
+      10
+services: 
+      10
+routes: 
+       9
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-17   
 dev-space-17
-apps: 14
-services: 13
-routes: 12
+apps: 
+       9
+services: 
+       9
+routes: 
+       8
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-18   
 dev-space-18
-apps: 9
-services: 9
-routes: 8
+apps: 
+      11
+services: 
+      11
+routes: 
+      10
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-19   
 dev-space-19
-apps: 5
-services: 5
-routes: 4
+apps: 
+       9
+services: 
+       9
+routes: 
+       8
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-20   
 dev-space-20
-apps: 7
-services: 7
-routes: 6
+apps: 
+      10
+services: 
+      10
+routes: 
+       9
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-21   
 dev-space-21
-apps: 14
-services: 14
-routes: 13
+apps: 
+      13
+services: 
+      13
+routes: 
+      12
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-22   
 dev-space-22
-apps: 12
-services: 12
-routes: 11
+apps: 
+       5
+services: 
+       5
+routes: 
+       4
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-23   
 dev-space-23
-apps: 6
-services: 7
-routes: 5
+apps: 
+       8
+services: 
+       8
+routes: 
+       7
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-24   
 dev-space-24
-apps: 9
-services: 9
-routes: 8
+apps: 
+      13
+services: 
+      13
+routes: 
+      12
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-25   
 dev-space-25
-apps: 9
-services: 9
-routes: 8
+apps: 
+       9
+services: 
+       9
+routes: 
+       8
+ 
                    
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-26   
 dev-space-26
-apps: 12
-services: 4
-routes: 11
+apps: 
+       6
+services: 
+       6
+routes: 
+       5
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-27   
 dev-space-27
-apps: 7
-services: 4
-routes: 6
+apps: 
+      11
+services: 
+      11
+routes: 
+      10
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-28   
 dev-space-28
-apps: 10
-services: 5
-routes: 9
+apps: 
+      10
+services: 
+      10
+routes: 
+       9
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-29   
 dev-space-29
-apps: 7
-services: 4
-routes: 6
+apps: 
+       8
+services: 
+       8
+routes: 
+       7
  
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-30   
 dev-space-30
-apps: 16
-services: 10
-routes: 15 
+apps: 
+      12
+services: 
+      12
+routes: 
+      11
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-31   
+dev-space-31
+apps: 
+      11
+services: 
+      11
+routes: 
+      10
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-32   
+dev-space-32
+apps: 
+       6
+services: 
+       6
+routes: 
+       5
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-33   
+dev-space-33
+apps: 
+       6
+services: 
+       6
+routes: 
+       5
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-34   
+dev-space-34
+apps: 
+       8
+services: 
+       8
+routes: 
+       7
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-35   
+dev-space-35
+apps: 
+      10
+services: 
+      11
+routes: 
+       9
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-36   
+dev-space-36
+apps: 
+      14
+services: 
+      14
+routes: 
+      13
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-37   
+dev-space-37
+apps: 
+      12
+services: 
+      12
+routes: 
+      11
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-38   
+dev-space-38
+apps: 
+      12
+services: 
+      11
+routes: 
+      11
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-39   
+dev-space-39
+apps: 
+      13
+services: 
+      13
+routes: 
+      12
+ 
+                   
+API endpoint:   https://api.a1.cf-app.com (API version: 2.11.0)   
+User:           admin   
+Org:            go-76995182   
+Space:          dev-space-40   
+dev-space-40
+apps: 
+       7
+services: 
+       7
+routes: 
+       6
+ 

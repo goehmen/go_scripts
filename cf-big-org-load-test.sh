@@ -7,7 +7,7 @@ appPath=/Users/pivotal/workspace/projects/hello-sinatra
 service=dummy
 plan=small
 
-for i in `seq 0 30`;
+for i in `seq 0 40`;
 do
   cf create-space "dev-space-$i"
 done
